@@ -1,6 +1,8 @@
 # 100daysofcode - Log
-**https://github.com/Gargi-Thakur**
-**https://twitter.com/GargiGingerly**
+
+- **https://github.com/Gargi-Thakur**
+- **https://twitter.com/GargiGingerly**
+- **https://gargithakur.com**
 
 ## Rules:
 1. I will code for at least an hour every day for the next 100 days
