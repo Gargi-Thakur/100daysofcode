@@ -3,6 +3,8 @@
 - **https://github.com/Gargi-Thakur**
 - **https://twitter.com/GargiGingerly**
 - **https://gargithakur.com**
+- [FreeCodeCamp profile](https://www.freecodecamp.org/gargi_thakur)
+- Referring [techinterviewhandbook](https://www.techinterviewhandbook.org/grind75?weeks=14&hours=14) to solve leetcode questions 
 
 ## Rules:
 1. I will code for at least an hour every day for the next 100 days
@@ -28,6 +30,17 @@
 - edge cases: if the given string is an empty string, return true. if the given string's length is <2, return false
 
 **Links:**
-1. [FreeCodeCamp profile](https://www.freecodecamp.org/gargi_thakur)
-2. Referring [techinterviewhandbook](https://www.techinterviewhandbook.org/grind75?weeks=14&hours=14) to solve leetcode questions 
-3. For understanding Valid parenthesis: [Persistent programmer](https://www.youtube.com/watch?v=zZ4nrY0uWeA)
+- For understanding Valid parenthesis: [Persistent programmer](https://www.youtube.com/watch?v=zZ4nrY0uWeA)
+
+### Day 002: July 02, 2022
+**Today's Progress**: 
+1. FreeCodeCamp- Completed Debugging section in JavaScript Algorithms and Data Structures Curriculum
+2. Leetcode ques.- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+**Thoughts:**
+1. FreeCodeCamp- I already knew all the concepts from debugging section but it was a good thing to revise the concepts.
+2. Leetcode ques.- I learned about pointers
+- Today I had fever, so was not able to give much time to coding. But I'm glad I was able to make some progress.
+
+**Links:**
+- For understanding Merge Two Sorted Lists: [Andy Gala](https://www.youtube.com/watch?v=IHY6qcVq9Wo)
